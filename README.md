@@ -1,6 +1,6 @@
 
 ### Hi, I'm Alexander Adamu 👋
-**Technical Instructor & AI Researcher | Data Analyst/Scientist | Software Engineer | ICS/SCADA/PLC Security**
+**Technical Instructor | AI Researcher | Data & Software Engineer | Automation Specialist | ICS/SCADA/PLC Security | 22yrs Nigerian Navy | CEO Techclus Global**
 
 **22 Years Nigerian Navy** - Trained engineers on IT, OT, PLC, and Automation systems  
 **10 Years Techclus Global** - Building remote teams, workflow automations & SaaS tools  
