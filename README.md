@@ -32,6 +32,6 @@ Currently pursuing: **MSc Computer Science** → **PhD in Formal Methods**
 - **Company**: Techclus Global Services Limited
 - **Website**: https://www.techclus.com
 - **Email**: techclus@gmail.com
-- **Location**: Abuja, Nigeria
+- **Location**: Abuja, Nigeria.
 
 > "22 years serving in the Navy. 10 years building Techclus. Now using Data, Software, and AI to protect PLCs and critical infrastructure."
